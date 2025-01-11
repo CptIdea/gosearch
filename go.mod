@@ -1,4 +1,4 @@
-module github.com/ibnaleem/gosearch
+module github.com/CptIdea/gosearch
 
 go 1.23.3
 
